@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Me</string>
+    <string name="desc">Nama      : Muhammad Solehudin \n\n
+                        NIM       : 175610047 \n\n
+                        Jurusan   : Sistem Informasi \n\n
+                        Umur      : 21 tahun \n\n
+                        Hobi      : Game, Sport, Movie \n\n
+                        Alamat    : Babadan Baru Banguntapan Bantul \n\n
+                        E-mail    : msolehudin130998@gmail.com \n\n
+                        No.Hp     : 081227917430 \n\n
+                        Twitter   : @soholeh \n\n
+                        Instagram : @soholeh \n\n
+                        GiHub     : @soholeh \n\n
+
+    </string>
+    <string name="muhammad_solehudin">Muhammad Solehudin</string>
+    <string name="todo">TODO</string>
+    <string name="selesai">SELESAI</string>
+</resources>
